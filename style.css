@@ -7,29 +7,4 @@ color: white;
 text-align: center;
 }
 
-#pfp{
-width: 280px;
-border-radius: 140px;
-border: solid 5px pink;
-}
 
-button{
-border-radius: 50px;
-border: solid 3px pink;
-margin-top: 15px;
-font-size: 15px;
-background-color: white;
-}
-
-
-
-#title {
-border: solid pink 3px;
-border-radius: 15px;
-padding: 3px 90px 3px 90px;
-font-size: 30px;
-background-color: white;
-font-family: Courier ;
-color: teal;
-display: inline-block;
-}
